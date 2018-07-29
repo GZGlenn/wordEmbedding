@@ -1,17 +1,17 @@
-./code/fastText/result/
+code/fastText/result/
 
-./code/GloVe/*.bin
-./code/GloVe/*.txt
+code/GloVe/*.bin
+code/GloVe/*.txt
 
-./code/multisense-prob-fasttext/modelfiles/
-./code/multisense-prob-fasttext/*.o
+code/multisense-prob-fasttext/modelfiles/
+code/multisense-prob-fasttext/*.o
 
-./code/word2gm/modelfiles/
-./code/word2gm/data/
+code/word2gm/modelfiles/
+code/word2gm/data/
 
-./code/word2vec/trunk/text8
-./code/word2vec/trunk/vector.txt
-./code/word2vec/trunk/vector.bin
+code/word2vec/trunk/text8
+code/word2vec/trunk/vector.txt
+code/word2vec/trunk/vector.bin
 
-./data/text8
+data/text8
 
