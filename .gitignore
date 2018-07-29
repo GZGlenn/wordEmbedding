@@ -1,4 +1,5 @@
 code/fastText/result/*
+code/fastText/data/*
 
 code/GloVe/*.bin
 code/GloVe/*.txt

@@ -1,0 +1,36 @@
+MTurk-771 dataset: total vob is 771 , oov is 0 
+Spearman correlation is 0.499689950885 with pvalue 6.14484014541e-50 
+Pearson correlation (0.49747765325207194, 1.9083754914105148e-49) 
+simlex999 dataset: total vob is 999 , oov is 0 
+Spearman correlation is 0.200105199603 with pvalue 1.75420763147e-10 
+Pearson correlation (0.19983415546823502, 1.8581858511679337e-10) 
+rw dataset: total vob is 2034 , oov is 0 
+Spearman correlation is 0.120471502746 with pvalue 5.04349222498e-08 
+Pearson correlation (0.11941177650513404, 6.609184899641593e-08) 
+mc dataset: total vob is 30 , oov is 0 
+Spearman correlation is 0.477970639337 with pvalue 0.00755339256421 
+Pearson correlation (0.4719978297953451, 0.008453775373886611) 
+MTurk-287 dataset: total vob is 287 , oov is 0 
+Spearman correlation is 0.64527998547 with pvalue 3.42907930338e-35 
+Pearson correlation (0.6739868412591457, 2.3139684331189023e-39) 
+men-3k dataset: total vob is 3000 , oov is 0 
+Spearman correlation is 0.562203458015 with pvalue 1.23923724089e-249 
+Pearson correlation (0.5589294784280397, 3.803928239430402e-246) 
+ws353-a dataset: total vob is 353 , oov is 0 
+Spearman correlation is 0.541914076666 with pvalue 2.47107344023e-28 
+Pearson correlation (0.5118767626311561, 5.7340804020866695e-25) 
+scwc dataset: total vob is 2003 , oov is 0 
+Spearman correlation is 0.543332064975 with pvalue 3.15943041551e-154 
+Pearson correlation (0.5734034277792849, 1.833338516993096e-175) 
+rg dataset: total vob is 65 , oov is 0 
+Spearman correlation is 0.50162275816 with pvalue 2.07432963661e-05 
+Pearson correlation (0.49568061179059764, 2.6879769437923964e-05) 
+yp dataset: total vob is 130 , oov is 0 
+Spearman correlation is 0.206548459462 with pvalue 0.0183859173429 
+Pearson correlation (0.15677510997020788, 0.07486688159715468) 
+ws353-s dataset: total vob is 203 , oov is 0 
+Spearman correlation is 0.609945601279 with pvalue 4.50378210722e-22 
+Pearson correlation (0.5945552390119097, 8.59393975372848e-21) 
+ws353-r dataset: total vob is 252 , oov is 0 
+Spearman correlation is 0.494362965704 with pvalue 6.16859116906e-17 
+Pearson correlation (0.4951034074751569, 5.4562384984138166e-17) 

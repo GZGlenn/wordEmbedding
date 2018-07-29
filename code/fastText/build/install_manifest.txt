@@ -1,0 +1,14 @@
+/usr/local/lib/libfasttext.so
+/usr/local/lib/libfasttext.a
+/usr/local/lib/libfasttext_pic.a
+/usr/local/bin/fasttext
+/usr/local/include/fasttext/args.h
+/usr/local/include/fasttext/dictionary.h
+/usr/local/include/fasttext/fasttext.h
+/usr/local/include/fasttext/matrix.h
+/usr/local/include/fasttext/model.h
+/usr/local/include/fasttext/productquantizer.h
+/usr/local/include/fasttext/qmatrix.h
+/usr/local/include/fasttext/real.h
+/usr/local/include/fasttext/utils.h
+/usr/local/include/fasttext/vector.h

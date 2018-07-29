@@ -1,0 +1,10 @@
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/install.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/list_install_components.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/rebuild_cache.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/install/local.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/install/strip.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/edit_cache.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/fasttext-shared.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/fasttext-static_pic.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/fasttext-static.dir
+/home/public/code/wordEmbedding/code/fastText/build/CMakeFiles/fasttext-bin.dir
