@@ -1,0 +1,32 @@
+gram3-comparative
+ACCURACY TOP1: 48.65% (648/1332)
+gram8-plural
+ACCURACY TOP1: 47.97% (639/1332)
+capital-common-countries
+ACCURACY TOP1: 1.98% (10/506)
+city-in-state
+ACCURACY TOP1: 1.72% (40/2330)
+family
+ACCURACY TOP1: 19.76% (83/420)
+gram9-plural-verbs
+ACCURACY TOP1: 51.26% (446/870)
+gram2-opposite
+ACCURACY TOP1: 66.53% (503/756)
+currency
+ACCURACY TOP1: 0.00% (0/596)
+gram6-nationality-adjective
+ACCURACY TOP1: 37.94% (577/1521)
+gram7-past-tense
+ACCURACY TOP1: 11.15% (174/1560)
+gram5-present-participle
+ACCURACY TOP1: 55.97% (591/1056)
+capital-world
+ACCURACY TOP1: 0.76% (27/3564)
+gram1-adjective-to-adverb
+ACCURACY TOP1: 71.07% (705/992)
+gram4-superlative.txt
+ACCURACY TOP1: 61.49% (610/992)
+Questions seen/total: 91.21% (17827/19544)
+Semantic accuracy: 2.16%  (160/7416)
+Syntactic accuracy: 47.00%  (4893/10411)
+Total accuracy: 28.34%  (5053/17827)

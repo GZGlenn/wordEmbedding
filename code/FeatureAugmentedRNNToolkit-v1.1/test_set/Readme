@@ -1,0 +1,70 @@
+
+The file "word_relationship.questions" contains the syntactic analogies.
+For example,
+"good better rough"
+with the interpretation "good is to better as rough is to what?"
+
+The file "word_relationship.answers" contains the answers along with 
+the specific type of relation tested. 
+For example,
+"JJ_JJR rougher"
+This means the first word was a base adjective, and the second a 
+comparative adjective.
+
+Note that the patterns are systematically created, as described in the 
+text. For example, the patterns based on good/better/best with the contrast
+base "rough" are:
+
+good better rough
+better good rougher
+good best rough
+best good roughest
+best better roughest
+better best rougher
+
+The file "sample.output" contains sample answers to each of the 8000 questions.
+There is one hypothesis per line. To score this, run "sample.scoring_script.sh".
+The output should look like:
+
+$ ./sample.scoring_script.sh
+JJ_JJR 15.8
+JJR_JJ 10.4
+
+JJ_JJS 7.6
+JJS_JJ 5
+
+JJR_JJS 5.6
+JJS_JJR 10.8
+
+Adjectives 9.2 % correct
+
+NNS_NN 4.4
+NN_NNS 7.4
+
+NN_NNPOS 18.2
+NNPOS_NN 14.4
+
+Nouns 11.1 % correct
+
+VB_VBZ 16.4
+VBZ_VB 18.8
+
+VB_VBD 16.2
+VBD_VB 17.8
+
+VBD_VBZ 18.2
+VBZ_VBD 17
+
+Verbs 17.4 % correct
+
+Overall correct: 12.75 %
+
+------------------------------------------
+
+Citation:
+Thomas Mikolov, Wen-tau Yih and Geoffrey Zweig
+Linguistic Regularities in Continuous SpaceWord Representations
+In Proceedings, The 2013 Conference of the North American Chapter of the
+Association for Computational Linguistics: Human Language Technologies 
+(NAACL-HLT 2013)
+
